@@ -1,0 +1,1 @@
+export const right = require('../src/assets/Images/img.png')

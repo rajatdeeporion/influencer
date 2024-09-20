@@ -1,0 +1,27 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+height: 4rem;
+width: 100%;
+border: 1px solid blue;
+}
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 30%;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    width: 10%;
+    height: 2.5rem;
+    border-radius: 1.5rem;
+    /* background-color: blue; */
+}

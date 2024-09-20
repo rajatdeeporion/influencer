@@ -1,0 +1,24 @@
+.sectionOne{
+    display: flex;
+   flex-direction: row;
+   justify-content: left;
+   height: 80vh;
+ 
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    border-radius: 2rem;
+    
+}
+.textBox{
+    width: 40%;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:aqua;
+}

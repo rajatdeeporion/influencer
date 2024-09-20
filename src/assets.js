@@ -1,0 +1,5 @@
+export const Navimg = require('./assets/Images/NavLogo.webp')
+export const Linkedin = require('./assets/Images/linkedin.jpg')
+export const Github = require('./assets/Images/github.jpg')
+export const Git = require('./assets/Images/git.jpg')
+export const Stars= require('./assets/Images/star_16785769.png')
